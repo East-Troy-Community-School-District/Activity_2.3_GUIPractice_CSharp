@@ -1,0 +1,9 @@
+\\et-fileserver\staff\pawnol\Desktop\Average\bin\Debug\Average.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Average\bin\Debug\Average.exe
+\\et-fileserver\staff\pawnol\Desktop\Average\bin\Debug\Average.pdb
+\\et-fileserver\staff\pawnol\Desktop\Average\obj\Debug\Average.AverageForm.resources
+\\et-fileserver\staff\pawnol\Desktop\Average\obj\Debug\Average.Properties.Resources.resources
+\\et-fileserver\staff\pawnol\Desktop\Average\obj\Debug\Average.csproj.GenerateResource.cache
+\\et-fileserver\staff\pawnol\Desktop\Average\obj\Debug\Average.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Average\obj\Debug\Average.exe
+\\et-fileserver\staff\pawnol\Desktop\Average\obj\Debug\Average.pdb
