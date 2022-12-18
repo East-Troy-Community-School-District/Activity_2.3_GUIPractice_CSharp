@@ -1,0 +1,9 @@
+\\et-fileserver\staff\pawnol\Desktop\HideButtons\bin\Debug\HideButtons.exe.config
+\\et-fileserver\staff\pawnol\Desktop\HideButtons\bin\Debug\HideButtons.exe
+\\et-fileserver\staff\pawnol\Desktop\HideButtons\bin\Debug\HideButtons.pdb
+\\et-fileserver\staff\pawnol\Desktop\HideButtons\obj\Debug\HideButtons.HideButtonsForm.resources
+\\et-fileserver\staff\pawnol\Desktop\HideButtons\obj\Debug\HideButtons.Properties.Resources.resources
+\\et-fileserver\staff\pawnol\Desktop\HideButtons\obj\Debug\HideButtons.csproj.GenerateResource.cache
+\\et-fileserver\staff\pawnol\Desktop\HideButtons\obj\Debug\HideButtons.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\HideButtons\obj\Debug\HideButtons.exe
+\\et-fileserver\staff\pawnol\Desktop\HideButtons\obj\Debug\HideButtons.pdb
