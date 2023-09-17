@@ -1,7 +1,8 @@
 ﻿/*
  * Hide Buttons
- * 12/18/2022
- * C#.NET I
+ * Pawelski
+ * 9/17/2023
+ * Developing Desktop Applications
  */
 
 using System;
